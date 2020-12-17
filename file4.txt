@@ -1,4 +1,8 @@
 
 This is the file created on master
 This is the file created on test branch
+<<<<<<< HEAD
 Hai what going on with the code.
+=======
+How is every thing 
+>>>>>>> test
